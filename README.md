@@ -1,1 +1,1 @@
-# IDL.Net.Socializer
+# IDL.Net.Socializr
